@@ -1,0 +1,34 @@
+{
+  "name": "maius-di",
+  "version": "0.0.1",
+  "description": "maius di",
+  "main": "dist/src/maius-di",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiusjs/maius-di.git"
+  },
+  "keywords": [
+    "maius-di",
+    "maius",
+    "maiusjs"
+  ],
+  "author": "tianmeng<15978852400@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maiusjs/maius-di/issues"
+  },
+  "homepage": "https://github.com/maiusjs/maius-di#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.12",
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
